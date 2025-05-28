@@ -1,2 +1,4 @@
-# html-css3
-Meu repositório de HTML5 e CSS3 do curso
+# html-css
+Curso de HTML5 e CSS3
+
+<a href="https://filipelannes.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001.</a>
